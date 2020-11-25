@@ -1,1 +1,1 @@
-(prelude-require-packages '(rust-playground))
+(prelude-require-packages '(rust-playground rust-mode))
