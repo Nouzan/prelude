@@ -1,1 +1,2 @@
-(prelude-require-packages '(rust-playground rust-mode flycheck-rust))
+(prelude-require-packages '(rust-playground))
+(setq rust-format-on-save nil)
