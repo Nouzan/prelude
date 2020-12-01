@@ -1,1 +1,1 @@
-(prelude-require-packages '(rust-playground rust-mode))
+(prelude-require-packages '(rust-playground rust-mode flycheck-rust))
