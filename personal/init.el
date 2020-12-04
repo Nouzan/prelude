@@ -1,2 +1,5 @@
 (prelude-require-packages '(rust-playground))
 (setq rust-format-on-save nil)
+(global-set-key (kbd "C-M-k") 'cargo-process-clippy)
+(setq mac-command-modifier 'meta)
+(setq mac-option-modifier 'super)
